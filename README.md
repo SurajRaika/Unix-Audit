@@ -24,3 +24,4 @@ and
  
 sudo zgrep "authentication failure" /var/log/auth.log.*.gz
  for to get older 
+https://chatgpt.com/share/6790a23b-1438-8001-84ed-39e8dba27670
