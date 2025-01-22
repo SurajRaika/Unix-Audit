@@ -22,3 +22,5 @@ and
  sudo tail -f /var/log/auth.log
  to get any real time info  
  
+sudo zgrep "authentication failure" /var/log/auth.log.*.gz
+ for to get older 
